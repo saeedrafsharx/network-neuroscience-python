@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+networkx>=3.2
+nilearn>=0.10
+dipy>=1.9
+nibabel>=5.0
+jupyterlab>=4.0
